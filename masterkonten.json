@@ -49,6 +49,54 @@
       "image": "link gambar, (boleh ambil dari google)",
       "description": "deskripsi",
       "link": "link konten di archive"
-    } 
+    },
+    
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Judul Konten",
+      "image": "link gambar, (boleh ambil dari google)",
+      "description": "deskripsi",
+      "link": "link konten di archive"
+     },
+
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Judul Konten",
+      "image": "link gambar, (boleh ambil dari google)",
+      "description": "deskripsi",
+      "link": "link konten di archive"
+    },
+
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Judul Konten",
+      "image": "link gambar, (boleh ambil dari google)",
+      "description": "deskripsi",
+      "link": "link konten di archive"
+    },
+
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Judul Konten",
+      "image": "link gambar, (boleh ambil dari google)",
+      "description": "deskripsi",
+      "link": "link konten di archive"
+    },
+
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Judul Konten",
+      "image": "link gambar, (boleh ambil dari google)",
+      "description": "deskripsi",
+      "link": "link konten di archive"
+      },
+
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Judul Konten",
+      "image": "link gambar, (boleh ambil dari google)",
+      "description": "deskripsi",
+      "link": "link konten di archive"
+    }
   ]
 }
