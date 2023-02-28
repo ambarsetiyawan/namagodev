@@ -43,7 +43,7 @@
   "Data": [
     
     {
-      "id": 2,
+      "id": 1,
       "name_category": "Tutorial",
       "title": "Judul Konten",
       "image": "link gambar, (boleh ambil dari google)",
@@ -58,7 +58,7 @@
       "description": "deskripsi",
       "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
     },
-      "id": 2,
+      "id": 3,
       "name_category": "Tutorial",
       "title": "tutor 1",
       "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
@@ -66,14 +66,14 @@
       "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
     },
 {
-      "id": 2,
+      "id": 4,
       "name_category": "Tutorial",
       "title": "tutor 1",
       "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
       "description": "deskripsi",
       "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
     },{
-      "id": 2,
+      "id": 5,
       "name_category": "Tutorial",
       "title": "tutor 1",
       "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
