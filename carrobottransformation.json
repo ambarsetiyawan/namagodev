@@ -1,0 +1,85 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "judul aplikasi yang sudah publish",
+      "image": "url icon aplikasi",
+      "link": "link aplikasi di playstore"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/gambar1.jpg"
+    } 
+  ],
+  "Data": [
+    
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Judul Konten",
+      "image": "link gambar, (boleh ambil dari google)",
+      "description": "deskripsi",
+      "link": "link konten di archive"
+   },
+{
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "tutor 1",
+      "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
+      "description": "deskripsi",
+      "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
+    },{
+   
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "tutor 1",
+      "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
+      "description": "deskripsi",
+      "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
+    },
+{
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "tutor 1",
+      "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
+      "description": "deskripsi",
+      "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
+    },{
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "tutor 1",
+      "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
+      "description": "deskripsi",
+      "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
+    }
+  ]
+}
