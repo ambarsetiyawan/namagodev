@@ -13,7 +13,7 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 1,
+      "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -80,6 +80,23 @@
       "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
       "description": "deskripsi",
       "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
+      },
+{
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "tutor 1",
+      "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
+      "description": "deskripsi",
+      "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
+    },{
+   
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "tutor 1",
+      "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
+      "description": "deskripsi",
+      "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
+    
     }
   ]
 }
