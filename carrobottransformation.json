@@ -28,28 +28,29 @@
    "More": [
     {
       "id": 1,
-      "title": "Super Yandere Game Simulation",
-      "image": "https://play-lh.googleusercontent.com/I0ZZ43zNfHgZnaRn_cVI3Dx0gJ5NHN0GBH0KQn4_mPnDGEIycL9LyIU4-NI4KFbn65A9=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=game.yandere.simulator.cartoon.adventure.moto&hl=id"
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
     }
   ],
   "Categories": [
+    
     {
-      "id": 1,
+      "id": 2,
       "name_category": "Tutorial",
       "image": "file:///android_asset/image/gambar1.jpg"
-    } 
+    }
   ],
   "Data": [
     
     {
       "id": 2,
       "name_category": "Tutorial",
-      "title": "Tutorial Car Robot Transformation 1",
-      "image": "https://i1.silvergames.com/screenshots/muscle-car-robot/3_gameplay-destruction-city.jpg",
+      "title": "tutor 1",
+      "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
       "description": "deskripsi",
-      "link": "https://ia804707.us.archive.org/8/items/html4_202302/konten%20car%20robot%20transformation%20info/html1.html"
-  },
+      "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
+    },
 {
       "id": 2,
       "name_category": "Tutorial",
@@ -64,7 +65,6 @@
       "image": "https://i.ytimg.com/vi/1Y--416fKF8/maxresdefault.jpg",
       "description": "deskripsi",
       "link": "https://ia601603.us.archive.org/8/items/html1_202302/html1.html"
-    
     }
   ]
 }
