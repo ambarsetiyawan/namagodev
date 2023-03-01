@@ -45,57 +45,57 @@
     {
       "id": 1,
       "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
+      "title": "Alphabet Lore vs Craftman Info 1",
+      "image": "https://imag.malavida.com/mvimg/main-m/craftsman-vs-alphabet-lore-36708-4.jpg",
       "description": "deskripsi",
-      "link": "ambil di archive org"
+      "link": "https://ia904705.us.archive.org/15/items/html6/konten/html1.html"
    },
 {
       "id": 1,
       "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
+      "title": "Alphabet Lore vs Craftman Info 1",
+      "image": "https://imag.malavida.com/mvimg/main-m/craftsman-vs-alphabet-lore-36708-4.jpg",
       "description": "deskripsi",
-      "link": "ambil di archive org"
+      "link": "https://ia904705.us.archive.org/15/items/html6/konten/html1.html"
     },{
    
       "id": 2,
       "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
+      "title": "Alphabet Lore vs Craftman Info 2",
+      "image": "https://imag.malavida.com/mvimg/main-m/craftsman-vs-alphabet-lore-36708-8.jpg",
       "description": "deskripsi",
-      "link": "ambil di archive org"
+      "link": "https://ia904705.us.archive.org/15/items/html6/konten/html2.html"
     },
 {
       "id": 3,
       "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
+      "title": "Alphabet Lore vs Craftman Info 3",
+      "image": "https://i.ytimg.com/vi/VyZHQU4t8Os/maxresdefault.jpg",
       "description": "deskripsi",
-      "link": "ambil di archive org"
+      "link": "https://ia904705.us.archive.org/15/items/html6/konten/html3.html"
     },{
       "id": 4,
       "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
+      "title": "Alphabet Lore vs Craftman Info 4",
+      "image": "https://i.ytimg.com/vi/SZBvW7qXZdA/maxresdefault.jpg",
       "description": "deskripsi",
-      "link": "ambil di archive org"
+      "link": "https://ia904705.us.archive.org/15/items/html6/konten/html4.html"
       },
 {
       "id": 5,
       "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
+      "title": "Alphabet Lore vs Craftman Info 5",
+      "image": "https://i.ytimg.com/vi/UUlPWLWscww/maxresdefault.jpg",
       "description": "deskripsi",
-      "link": "ambil di archive org"
+      "link": "https://ia904705.us.archive.org/15/items/html6/konten/html5.html"
     },{
    
       "id": 6,
       "name_category": "Tutorial",
-      "title": "Judul pake info",
-      "image": "ambil di google copy image adress",
+      "title": "Alphabet Lore vs Craftman Info 6",
+      "image": "https://i.ytimg.com/vi/u8HYm3cCJH4/mqdefault.jpg",
       "description": "deskripsi",
-      "link": "ambil di archive org"
+      "link": "https://ia904705.us.archive.org/15/items/html6/konten/html6.html"
     
     }
   ]
